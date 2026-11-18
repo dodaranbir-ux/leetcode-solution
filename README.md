@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/dodaranbir-ux/leetcode-solution/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/dodaranbir-ux/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/dodaranbir-ux/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/dodaranbir-ux/leetcode-solution/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/dodaranbir-ux/leetcode-solution/tree/master/0189-rotate-array) |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/dodaranbir-ux/leetcode-solution/tree/master/0056-merge-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dodaranbir-ux/leetcode-solution/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dodaranbir-ux/leetcode-solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
